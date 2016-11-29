@@ -10,6 +10,7 @@ export default class FetchOnTrigger extends Component {
       const json = await response.json();
       this.setState({
         data: json,
+        error: undefined,
       });
     } catch (e) {
       this.setState({
