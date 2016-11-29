@@ -1,5 +1,6 @@
 {
-  "name": "fetch-status-setter",
+  "name": "buggy-fetch",
+  "author": "<rafal.filipek@gmail.com> Rafał Filipek",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
